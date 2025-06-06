@@ -13,6 +13,12 @@
 - File placed in `/etc/systemd/system/myapp.service`.
 
 ### Sample Structure:
+Notes:
+Services enable running apps in background / on boot.
+
+I created a .service file to run a Python app as a systemd service.
+
+Used ExecStart, ExecStartPre, ExecStartPost for advanced control.
 
 ```ini
 [Unit]
@@ -25,9 +31,3 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 
-Notes:
-Services enable running apps in background / on boot.
-
-I created a .service file to run a Python app as a systemd service.
-
-Used ExecStart, ExecStartPre, ExecStartPost for advanced control.

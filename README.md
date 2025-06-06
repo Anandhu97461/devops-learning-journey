@@ -5,7 +5,7 @@ I am learning in public and sharing my progress weekly through this repo and my 
 
 ---
 
-## 📅 Week 1 (June 4–7, 2025)
+## 📅 Week 1 (June 3–6, 2025)
 
 - [12-Factor App Summary](week-1/12-factor-app-summary.md)
 - [Linux Commands](week-1/linux-commands.md)

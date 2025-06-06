@@ -39,7 +39,7 @@ This is a personal learning journey as I progress through:
 
 ## Follow My Journey
 
-📗 [Blog on Hashnode]([your-blog-link-here](https://devops-week1.hashnode.dev/))  
+📗 [Blog on Hashnode](https://devops-week1.hashnode.dev/)  
 💻 [LinkedIn](https://www.linkedin.com/in/anandhu-p-a-307771369/)
 
 ---

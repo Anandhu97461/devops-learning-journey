@@ -13,21 +13,23 @@
 
 ```sql
 CREATE DATABASE ecomdb;:
+
 - Created a user and granted access:
 
 ```sql
 CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
 GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';:
+
 ## NoSQL Databases (MongoDB)
-Installed and enabled mongod service.
+- Installed and enabled mongod service.
 
-Log file path: /var/log/mongodb/mongod.log
+- Log file path: /var/log/mongodb/mongod.log
 
-Configuration file: /etc/mongod.conf
+- Configuration file: /etc/mongod.conf
 
-Accessed Mongo shell via mongo
+- Accessed Mongo shell via mongo
 
-Created DBs and collections:
+- Created DBs and collections:
 
 ```js
 use devDB

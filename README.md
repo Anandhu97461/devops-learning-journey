@@ -21,7 +21,7 @@ I am learning in public and sharing my progress weekly through this repo and my 
 ## 📅 Week 2 (June 7–13, 2025)
 - [Databases: MySQL, MariaDB, MongoDB](week-2/databases.md)
 - [TLS & SSL Security Basics](week-2/tls-ssl.md)
-- [JSON & YAML Fundamentals](week-2/json-yaml-basics.md)
+- [JSON & YAML Fundamentals](week-2/json-yaml-basic.md)
 - [2-Tier App Deployment Project](week-2/2-tier-deployment.md)
 - [DevOps Fundamentals (Culture, CI/CD, Flow-Feedback-Improvement)](week-2/devops-fundamentals.md)
 - LFCS Linux Skills:

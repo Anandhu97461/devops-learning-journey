@@ -9,7 +9,7 @@
 - Set a new password with:
   ```sql
   SET PASSWORD = 'newpass';
-Created a database:
+- Created a database:
 
 ```sql
 CREATE DATABASE ecomdb;
@@ -17,7 +17,7 @@ Created a user and granted access:
 
 ```sql
 CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
-GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';
+GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';:
 NoSQL Databases (MongoDB)
 Installed and enabled mongod service.
 
@@ -33,5 +33,5 @@ Created DBs and collections:
 use devDB
 db.createCollection("products")
 db.products.insert({ name: "laptop", price: 1200 })
-db.products.find()
+db.products.find():
 

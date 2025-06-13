@@ -9,32 +9,26 @@
 - Set a new password with:
   ```sql
   SET PASSWORD = 'newpass';
-Created a database:
+- Created a database:
+  ```sql
+  CREATE DATABASE ecomdb;
+- Created a user and granted access:
+  ```sql
+  CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
+  GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';
+## NoSQL Databases (MongoDB)
+- Installed and enabled mongod service.
 
-sql
-Edit
-CREATE DATABASE ecomdb;
-Created a user and granted access:
+- Log file path: /var/log/mongodb/mongod.log
 
-sql
-Edit
-CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
-GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';
-NoSQL Databases (MongoDB)
-Installed and enabled mongod service.
+- Configuration file: /etc/mongod.conf
 
-Log file path: /var/log/mongodb/mongod.log
+- Accessed Mongo shell via mongo
 
-Configuration file: /etc/mongod.conf
+- Created DBs and collections:
 
-Accessed Mongo shell via mongo
-
-Created DBs and collections:
-
-js
-Edit
+```js
 use devDB
 db.createCollection("products")
 db.products.insert({ name: "laptop", price: 1200 })
-db.products.find()
-
+db.products.find()```

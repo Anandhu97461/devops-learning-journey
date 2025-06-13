@@ -16,7 +16,3 @@
 ## Frameworks
 
 - DevOps supports Agile, LEAN, SAFe, and partially SRE.
-
-## Learning Insight
-
-It was mostly theory but clarified a lot of confusion I had about what DevOps really is and what it is not. The cultural angle stood out more than I expected.

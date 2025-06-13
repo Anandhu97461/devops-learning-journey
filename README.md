@@ -29,8 +29,13 @@ I am learning in public and sharing my progress weekly through this repo and my 
   - [User/Group Permissions & Ownership](week-2/user-groups-perms-ownership.md)
   - [File Searching (find, stat, etc.)](week-2/file-searching.md)
 
+---
+
 ## 📅 Week 3  
+
 Coming soon 🚀
+
+---
 
 ## About
 

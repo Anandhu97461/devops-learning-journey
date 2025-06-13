@@ -11,13 +11,11 @@
   SET PASSWORD = 'newpass';
 Created a database:
 
-sql
-Edit
+```sql
 CREATE DATABASE ecomdb;
 Created a user and granted access:
 
-sql
-Edit
+```sql
 CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
 GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';
 NoSQL Databases (MongoDB)
@@ -31,8 +29,7 @@ Accessed Mongo shell via mongo
 
 Created DBs and collections:
 
-js
-Edit
+```js
 use devDB
 db.createCollection("products")
 db.products.insert({ name: "laptop", price: 1200 })

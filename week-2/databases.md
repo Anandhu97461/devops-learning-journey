@@ -8,7 +8,7 @@
 - Logged in with: `mysql -u root -p`
 - Set a new password with:
   ```sql
-  SET PASSWORD = 'newpass';```
+  SET PASSWORD = 'newpass';
 - Created a database:
 
 ```sql

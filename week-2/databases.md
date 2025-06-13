@@ -10,9 +10,8 @@
   ```sql
   SET PASSWORD = 'newpass';
 - Created a database:
-
-```sql
-CREATE DATABASE ecomdb;
+  ```sql
+  CREATE DATABASE ecomdb;
 
 - Created a user and granted access:
 

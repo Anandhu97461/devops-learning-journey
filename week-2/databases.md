@@ -12,8 +12,8 @@
 - Created a database:
   ```sql
   CREATE DATABASE ecomdb;
-
 - Created a user and granted access:
+  
 
 ```sql
 CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';

@@ -18,10 +18,19 @@ I am learning in public and sharing my progress weekly through this repo and my 
 
 ---
 
-## 📅 Week 2
-Coming soon 🚀
+## 📅 Week 2 (June 7–13, 2025)
+- [Databases: MySQL, MariaDB, MongoDB](week-2/databases.md)
+- [TLS & SSL Security Basics](week-2/tls-ssl.md)
+- [JSON & YAML Fundamentals](week-2/json-yaml-basics.md)
+- [2-Tier App Deployment Project](week-2/2-tier-deployment.md)
+- [DevOps Fundamentals (Culture, CI/CD, Flow-Feedback-Improvement)](week-2/devops-fundamentals.md)
+- LFCS Linux Skills:
+  - [Filesystems & Navigation](week-2/filesystems-and-navigation.md)
+  - [User/Group Permissions & Ownership](week-2/user-groups-perms-ownership.md)
+  - [File Searching (find, stat, etc.)](week-2/file-searching.md)
 
----
+## 📅 Week 3  
+Coming soon 🚀
 
 ## About
 

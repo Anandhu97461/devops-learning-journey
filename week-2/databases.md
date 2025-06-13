@@ -7,8 +7,7 @@
 - Extracted temporary MySQL password from `/var/log/mysqld.log`.
 - Logged in with: `mysql -u root -p`
 - Set a new password with:
-  ```sql
-  SET PASSWORD = 'newpass';
+  ```sql SET PASSWORD = 'newpass';```
 - Created a database:
 
 ```sql
@@ -16,8 +15,7 @@ CREATE DATABASE ecomdb;```
 
 - Created a user and granted access:
 
-```sql
-CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
+```sql CREATE USER 'ecomuser'@'localhost' IDENTIFIED BY 'ecompassword';
 GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';```
 
 ## NoSQL Databases (MongoDB)
@@ -31,8 +29,7 @@ GRANT ALL PRIVILEGES ON *.* TO 'ecomuser'@'localhost';```
 
 - Created DBs and collections:
 
-```js
-use devDB
+```js use devDB
 db.createCollection("products")
 db.products.insert({ name: "laptop", price: 1200 })
 db.products.find()```

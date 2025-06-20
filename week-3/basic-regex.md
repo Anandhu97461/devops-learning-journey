@@ -11,5 +11,6 @@
 ```bash
 grep '^#' /etc/login.defs       # lines starting with #
 grep '[0-9]$' /etc/passwd       # lines ending with digit
+```
 
 ---

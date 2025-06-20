@@ -10,6 +10,7 @@
 ```bash
 systemctl get-default
 systemctl isolate rescue.target
+```
 
 Use systemctl set-default to change the boot default.
 

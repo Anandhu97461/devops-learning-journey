@@ -3,6 +3,7 @@
 ## 🧪 Basic Syntax:
 ```bash
 grep 'pattern' file.txt
+```
 
 Options:
 -i: case insensitive
@@ -19,13 +20,16 @@ Examples:
 ```bash
 grep -i 'password' /etc/ssh/sshd_config
 grep -rw 'PermitRootLogin' /etc/
+```
 
 🔁 Recursive Search
 ```
 grep -ri 'port' /etc/
+```
 
 🔐 Root Files
 ```
 sudo grep -ri 'confidential' /etc/ --color
+```
 
 ---

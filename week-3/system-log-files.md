@@ -11,6 +11,7 @@ journalctl
 journalctl -u ssh
 journalctl --since "1 hour ago"
 journalctl -xe
+```
 
 Use grep or less to filter.
 

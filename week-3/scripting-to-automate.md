@@ -5,11 +5,13 @@
 #!/bin/bash
 echo "System uptime:"
 uptime
+```
 
 ## 🎛 Permissions:
 ```bash
 chmod +x script.sh
 ./script.sh
+```
 
 ## 🧠 Constructs Used:
 if, else

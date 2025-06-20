@@ -6,7 +6,7 @@
 ```bash
 sudo add-apt-repository ppa:nginx/stable
 sudo apt update
-
+```
 
 ## 🗂 YUM Repos:
 File: /etc/yum.repos.d/myrepo.repo
@@ -17,6 +17,6 @@ name=My Custom Repo
 baseurl=http://myrepo.com/packages/
 enabled=1
 gpgcheck=0
-
+```
 
 ---

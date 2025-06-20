@@ -13,13 +13,16 @@ cat <<EOF
 Line 1
 Line 2
 EOF
+```
 
 🔄 Here Strings:
 ```bash
 bc <<< "2+2"
+```
 
 🔀 Pipe:
 ```bash
 grep -v '^#' file | sort | column -t
+```
 
 ---

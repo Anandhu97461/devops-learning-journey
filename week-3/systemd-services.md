@@ -13,6 +13,7 @@ Restart=on-failure
 
 [Install]
 WantedBy=multi-user.target
+```
 
 ## 🔧 Manage Service:
 ```bash
@@ -20,6 +21,7 @@ systemctl daemon-reexec
 systemctl enable myscript
 systemctl start myscript
 systemctl status myscript
+```
 
 Use journalctl -u myscript to check logs.
 

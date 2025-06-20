@@ -31,11 +31,38 @@ I am learning in public and sharing my progress weekly through this repo and my 
 
 ---
 
-## 📅 Week 3  
+## 📅 Week 3 (June 14–20, 2025)
+- [Compare and Manipulate File Content](week-3/comparing-manipulating-files.md)
+- [Pagers and VI](week-3/pagers-vi.md)
+- [Search File Using Grep](week-3/grep.md)
+- [Analyze Text Using Basic Regular Expressions](week-3/basic-regex.md)
+- [Extended Regular Expressions](week-3/extended-regex.md)
+- [Archive, Back Up, Compress, Unpack and Uncompress Files](week-3/archive-compress-backup.md)
+- [Use Input Output Redirection](week-3/input-output-redirection.md)
+- [SSL Certificates](week-3/ssl-certificates.md)
+- [Git Basic Operations](week-3/git-basics.md)
+- [Git Staging and Committing Changes](week-3/git-staging-committing.md)
+- [Git Branches and Remote Repositories](week-3/git-branches-remote-repositories.md)
+- [Boot Reboot and Shutdown a System Safely](week-3/boot-reboot-shutdown.md)
+- [Boot or Change System Into Different Operating Modes](week-3/operating-modes.md)
+- [Use Scripting to Automate System Maintenance Tasks](week-3/scripting-to-automate.md)
+- [Manage Startup Process and Services In Services Configuration](week-3/startup-process-services.md)
+- [Create systemd Services](week-3/systemd-services.md)
+- [Diagnose and Manage Processes](week-3/diagnose-manage-processes.md)
+- [Locate and Analyze System Log Files](week-3/system-log-files.md)
+- [Schedule Tasks to Run at a Set Date and Time](week-3/schedule-tasks.md)
+- [Manage Software with the Package Manager](week-3/package-manager.md)
+- [Configure the Repositories of Package Manager](week-3/configure-package-manager.md)
+- [Install Software by Compiling Source Code](week-3/compiling-source-code.md)
+- [Verify Integrity and Availability of Resources and Processes](week-3/verify-integrity-availability.md)
+  
+---
 
-Coming soon 🚀
+## 📅 Week 4
+Coming Soon! 🚀
 
 ---
+
 
 ## About
 

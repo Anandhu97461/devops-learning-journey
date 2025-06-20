@@ -1,11 +1,11 @@
 # Archive, Backup, Compress, Unpack
 
 ## 🎒 Tar:
-```
+```bash
 tar -cf archive.tar folder/
 tar -xf archive.tar
 
-🗜 Compression:
+### 🗜 Compression:
 ```bash
 gzip file.txt
 bzip2 file.txt

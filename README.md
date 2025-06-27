@@ -57,8 +57,37 @@ I am learning in public and sharing my progress weekly through this repo and my 
 - [Verify Integrity and Availability of Resources and Processes](week-3/verify-integrity-availability.md)
   
 ---
+## 📅 Week 4 (June 21–27, 2025)
 
-## 📅 Week 4
+- [Change Kernel Runtime Parameters](week-4/kernel-parameters.md)
+- [List and Identify SELinux File and Process Contexts](week-4/selinux-contexts.md)
+- [Create and Enforce MAC Using SELinux](week-4/selinux-mac-enforcement.md)
+- [Creating and managing Docker containers](week-4/containers.md)
+- [Managing and configuring virtual machines with virsh](week-4/vms-basics.md)
+- [Creating and booting a VM using a cloud image](week-4/vms-installation.md)
+- [Installing an OS using a virtual ISO](week-4/vms-install-from-iso.md)
+- [Creating, modifying, and deleting user accounts](week-4/user-management.md)
+- [Managing local groups and group memberships](week-4/group-management.md)
+- [System-wide environment profiles and scripts](week-4/env-management.md)
+- [Managing /etc/skel and default user templates](week-4/template-env.md)
+- [User Privileges and Resource Limits](week-4/user-privileges-resource-limits.md)
+- [LDAP Integration and Network Configuration](week-4/ldap-network-config.md)
+- [Managing Network Services and Listening Ports](week-4/network-services.md)
+- [Bridge vs Bonding in Network Devices](week-4/bridge-vs-bonding.md)
+- [Configure Firewall using UFW](week-4/firewall-ufw.md)
+- [Port Redirection and NAT Configuration](week-4/port-redirection-nat.md)
+- [Reverse Proxy and Load Balancing with Nginx](week-4/nginx-reverseproxy-loadbalancer.md)
+- [System Time Sync using NTP and timedatectl](week-4/htp-time-sync.md)
+- [Configure SSH Server and Client](week-4/ssh-server-client.md)
+- [Partitions, Swap Space, and Filesystems](week-4/partitions-and-filesystems.md)
+- [Mount Options and Remote Filesystems (NFS & NBD)](week-4/mount-options-and-remote-fs.md)
+- [Managing and Configuring LVM Storage](week-4/lvm-storage.md)
+- [Monitoring Storage Performance](week-4/storage-monitoring.md)
+- [Advanced Filesystem Permissions and Attributes](week-4/advanced-fs-permissions.md)
+
+---
+
+## 📅 Week 5
 Coming Soon! 🚀
 
 ---

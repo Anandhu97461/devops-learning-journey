@@ -1,0 +1,1 @@
+Create a shell script in the home directory called check_dir.sh. The script should print the line Directory exists if the directory /home/bob/caleston exists. If not, it should print Directory not found

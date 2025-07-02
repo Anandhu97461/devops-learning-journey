@@ -1,0 +1,1 @@
+Create a shell script in the home directory called check_greater.sh. The script should check the greater of the two command line arguments $1 and $2 and print which ever is greater

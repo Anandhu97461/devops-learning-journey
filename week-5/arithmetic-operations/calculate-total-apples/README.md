@@ -1,0 +1,1 @@
+A new shell script is created in your home directory by the name /home/bob/calculate-total-apples.sh and it prints the number of total apples using the formula total_apples = baskets x apples_per_basket. However the script does not execute as expected. Troubleshoot and fix the issue.

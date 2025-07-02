@@ -1,0 +1,1 @@
+Let's try some arithmetic operations. We have created a shell script - calculation.sh - that has 2 variables defined - A and B. Update the shell script to print the Sum, Difference, Product and Quotient of these values.

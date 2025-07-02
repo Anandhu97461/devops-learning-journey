@@ -1,0 +1,1 @@
+Create a simple script called loop.sh at /home/bob. The script should make use of a loop and print the numbers 31 to 40 with each number in a new line.

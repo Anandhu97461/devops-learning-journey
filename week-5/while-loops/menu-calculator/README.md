@@ -1,4 +1,4 @@
-Let us now build a menu driven calculator program. Develop a script /home/bob/calculator.sh that when run:
+Develop a script /home/bob/calculator.sh that when run:
 
 
 Shows a menu-driven program with the following options:

@@ -87,7 +87,22 @@ I am learning in public and sharing my progress weekly through this repo and my 
 
 ---
 
-## 📅 Week 5
+## 📅 Week 5 (June 27 – July 4, 2025)
+
+- [Shell Scripting Basics](week-5/basics)
+- [Variables](week-5/variables)
+- [Command Line Arguments](week-5/command-line-arguments)
+- [Arithmetic Operations](week-5/arithmethic-operations)
+- [Conditional Logic](week-5/conditional-logic)
+- [For Loops](week-5/for-loops)
+- [While Loops](week-5/while-loops)
+- [Case Statements](week-5/case-statements)
+- [Functions](week-5/functions)
+- [Final Project](week-5/final-project)
+
+---
+
+## 📅 Week 6
 Coming Soon! 🚀
 
 ---

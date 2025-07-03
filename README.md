@@ -99,6 +99,7 @@ I am learning in public and sharing my progress weekly through this repo and my 
 - [Case Statements](week-5/case-statements)
 - [Functions](week-5/functions)
 - [Final Project](week-5/final-project)
+- [Linux Projects](https://github.com/Anandhu97461/linux-projects)
 
 ---
 

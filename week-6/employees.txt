@@ -1,0 +1,8 @@
+1|Kriti|Shreshtha|Finance|Analyst|kriti@company.com|60000
+2|Raj|Vasudevan|Finance|Accountant|raj@company.com|75000
+3|Debbie|Miller|IT|Developer|debbie@company.com|80000
+4|Enrique|Rivera|Marketing|Specialist|enrique@company.com|65000
+5|Feng|Lin|Sales|Manager|feng@company.com|90000
+6|Andy|Luscomb|IT|Manager|andy@company.com|95000
+7|Mark|Crocker|HR|Manager|mark@company.com|85000
+8|Jing|Ma|Engineering|Lead|jing@company.com|100000

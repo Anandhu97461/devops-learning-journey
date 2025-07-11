@@ -103,7 +103,22 @@ I am learning in public and sharing my progress weekly through this repo and my 
 
 ---
 
-## 📅 Week 6
+## 📅 Week 6 (July 5–11, 2025)
+- [📝 Notes on Advanced Bash Scripting](week-6/notes.md)
+- [Lunch Selector Script](week-6/lunch_selector.sh)
+- [Declare Variable Demo](week-6/declare_demo.sh)
+- [Parameter Expansion Demo](week-6/parameter_expansion.sh)
+- [Globbing Patterns Practice](week-6/globbing_patterns.sh)
+- [Strict Mode and Exit Handling](week-6/strict_mode_demo.sh)
+- [ISO 8601 Timestamp Logger](week-6/timestamp_logger.sh)
+- [AWK Salary Filter Example](week-6/awk_salary_filter.sh)
+- [SED Examples for Search/Delete/Substitute](week-6/sed_examples.sh)
+- [`food_places.txt` — source file for lunch selector](week-6/food_places.txt)  
+- [`employees.txt` — mock data file for AWK and SED](week-6/employees.txt)
+
+---
+
+## 📅 Week 7
 Coming Soon! 🚀
 
 ---

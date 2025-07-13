@@ -127,7 +127,7 @@ I am learning in public and sharing my progress weekly through this repo and my 
 - [Python Basics Notes](week-7/python-notes.md)
 - [Python Quiz Mistake Demos](week-7/python-quiz-fails-demo.py)
 - [Python Mock Exam Scores](week-7/python-mock-exam-scores.md)
-- 🔁 Python Lab Examples  
+- Python Lab Examples  
   Inside [`week-7/python-lab-examples/`](week-7/python-lab-examples/):  
     - `list_reference_vs_copy.py` – shows reference vs copy behavior  
     - `list_slicing_example.py` – slicing demo using step index  

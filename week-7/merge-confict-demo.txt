@@ -1,0 +1,11 @@
+# This is a simulated merge conflict example
+
+When Git cannot automatically merge changes between branches, it marks the file like this:
+
+<<<<<<< HEAD
+Your current branch content
+=======
+Incoming branch content
+>>>>>>> feature-branch
+
+You need to manually edit, keep what you want, and delete the markers.

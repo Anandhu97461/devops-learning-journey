@@ -118,7 +118,30 @@ I am learning in public and sharing my progress weekly through this repo and my 
 
 ---
 
-## 📅 Week 7
+## 📅 Week 7 (July 12–18, 2025)
+
+- [Git Workflow Notes](week-7/git-workflow-notes.md)
+- [Git Lab Commands (Push, Pull, Merge, Rebase, Cherry-pick, etc.)](week-7/git-lab-commands.md)
+- [GitHub Pull Request Workflow Demo](week-7/git-pr-workflow-demo.md)
+- [Merge Conflict Resolution Demo](week-7/merge-conflict-demo.txt)
+- [Python Basics Notes](week-7/python-notes.md)
+- [Python Quiz Mistake Demos](week-7/python-quiz-fails-demo.py)
+- [Python Mock Exam Scores](week-7/python-mock-exam-scores.md)
+
+### 🔁 Python Lab Examples  
+Inside [`week-7/python-lab-examples/`](week-7/python-lab-examples/):  
+- `list_reference_vs_copy.py` – shows reference vs copy behavior  
+- `list_slicing_example.py` – slicing demo using step index  
+- `matrix-printer.py` – 2D list using nested comprehension  
+- `nested_list_comprehension.py` – flattening and nested structures  
+- `simple-login-system.py` – basic username-password validation  
+- `string_immutability_demo.py` – string methods vs reassignment  
+- `student-score-analyzer.py` – input, average, top scorer, pass/fail  
+- `truthy_tuple_check.py` – Python truthiness using tuples
+
+---
+
+## 📅 Week 8
 Coming Soon! 🚀
 
 ---

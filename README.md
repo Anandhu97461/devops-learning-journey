@@ -137,7 +137,26 @@ I am learning in public and sharing my progress weekly through this repo and my 
     - `string_immutability_demo.py` – string methods vs reassignment  
     - `student-score-analyzer.py` – input, average, top scorer, pass/fail  
     - `truthy_tuple_check.py` – Python truthiness using tuples
-- New Tasks
+    - `stack_procedural.py` – stack using list and functions (procedural style)  
+    - `stack_class_oop.py` – stack using class with encapsulation  
+    - `document_class_example.py` – inheritance with a document and report class  
+    - `object_counter_with_private_vars.py` – private variables with instance count  
+    - `transport_composition.py` – composition over inheritance demo  
+    - `safe_division_with_exceptions.py` – try-except with multiple exceptions  
+    - `email_custom_exception.py` – raise custom error for invalid email  
+    - `email_custom_exception_default.py` – custom error with default args  
+    - `captcha_with_assertion.py` – use of assert to verify logic  
+    - `generator_counter.py` – generator with `yield` and next()  
+    - `filter_numeric_values.py` – lambda + filter for numeric filtering  
+    - `html_bold_formatter.py` – closure to wrap strings in tags  
+    - `book_rating_price_adjuster.py` – list comprehension + `map()` + `lambda`  
+    - `layout_position_area.py` – class-based object with inherited dimensions  
+    - `oulipo.txt` – sample text file used for exercises  
+    - `string_duplicate_format.py` – character formatting practice  
+    - `lipogram_letter_counter.py` – read files, count letter exclusion  
+    - `movie_cleanup.py` – text cleanup using methods chaining
+- [Python OOP and Exception Handling Notes](week-7/python-oop-exception-notes.md)
+
 
 ---
 

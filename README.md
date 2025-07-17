@@ -125,7 +125,7 @@ I am learning in public and sharing my progress weekly through this repo and my 
 - [GitHub Pull Request Workflow Demo](week-7/git-pr-workflow-demo.md)
 - [Merge Conflict Resolution Demo](week-7/merge-conflict-demo.txt)
 - [Python Basics Notes](week-7/python-notes.md)
-- [Python Quiz Mistake Demos](week-7/python-quiz-fails-demo.py)
+- [Python String Actions](week-7/string-actions-notes.md)
 - [Python Mock Exam Scores](week-7/python-mock-exam-scores.md)
 - Python Lab Examples  
   Inside [`week-7/python-lab-examples/`](week-7/python-lab-examples/):  

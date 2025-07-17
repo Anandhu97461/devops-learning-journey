@@ -156,7 +156,7 @@ I am learning in public and sharing my progress weekly through this repo and my 
     - `lipogram_letter_counter.py` – read files, count letter exclusion  
     - `movie_cleanup.py` – text cleanup using methods chaining
 - [Python OOP and Exception Handling Notes](week-7/python-oop-exception-notes.md)
-
+- [AWS Cloud Practitioner Notes](week-7/aws-notes.md)
 
 ---
 
